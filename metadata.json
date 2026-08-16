@@ -1,0 +1,6 @@
+{
+  "name": "Utkarsh Portfolio",
+  "description": "Utkarsh Bajpai's Premium Responsive Developer Portfolio application built with Jetpack Compose & modern custom responsive WebView styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
